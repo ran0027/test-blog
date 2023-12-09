@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Home Page
 ---
 
-Here's some more text.
+Snippets of what I'm learning and creating.
