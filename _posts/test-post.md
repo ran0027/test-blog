@@ -1,0 +1,42 @@
+# Test Post
+
+*12/9/2023*
+
+Author: R Neel
+
+---
+
+This is an experiment to see how jupyter notebook is rendered as markdown using nbconvert (for github pages blog.)
+
+
+```python
+# import packages
+
+import matplotlib.pyplot as plt
+import numpy as np
+```
+
+
+```python
+plt.plot([x for x in np.linspace(1, 10, 100)], [x**2 for x in np.linspace(1, 10, 100)])
+plt.plot(4, 25, marker='o', color='r')
+plt.plot(6, 12, marker='o', color='r');
+```
+
+
+    
+![png](test-post_files/test-post_3_0.png)
+    
+
+
+
+```python
+2 + 2
+```
+
+
+
+
+    4
+
+
